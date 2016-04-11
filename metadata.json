@@ -1,0 +1,12 @@
+{
+    "title": "This is a sample title",
+    "description": "This is a long description for the sample",
+    "tags": [
+        "lang:csharp",
+        "fx:aspnet",
+        "fx:aspnetwebapi",
+        "lock",
+        "google",
+        "oauth"
+    ]
+}
