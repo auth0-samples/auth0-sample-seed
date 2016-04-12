@@ -1,10 +1,15 @@
 {
     "title": "This is a sample title",
     "description": "This is a long description for the sample",
+    "seed": "true",
+    "languages":[
+        "csharp"
+    ],
+    "frameworks":[
+        "aspnet",
+        "aspnetwebapi"
+    ],
     "tags": [
-        "lang:csharp",
-        "fx:aspnet",
-        "fx:aspnetwebapi",
         "lock",
         "google",
         "oauth"
