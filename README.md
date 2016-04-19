@@ -85,4 +85,5 @@ This desribes the possible values for the taxonomies. In particular the `languag
 * express
 * passportjs
 * nodejs
+* spring
 
